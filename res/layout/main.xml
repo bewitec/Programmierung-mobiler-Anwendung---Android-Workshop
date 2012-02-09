@@ -4,10 +4,33 @@
     android:layout_height="fill_parent"
     android:orientation="vertical" >
 
-    <ListView
-        android:id="@+id/contactsListView"
+    <EditText
+        android:id="@+id/locationEditText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPostalAddress" >
+
+        <requestFocus />
+    </EditText>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" >
-    </ListView>
+
+        <Button
+            android:id="@+id/find"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/find" />
+
+        <Button
+            android:id="@+id/pick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/pick" />
+
+    </LinearLayout>
 
 </LinearLayout>
