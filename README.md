@@ -1,6 +1,6 @@
 # Beschreibung #
 
-Der Workshop *Programmierung mobiler Anwendungen* wurde am 30. Januar 2012 und am 12. Dezember 2011 an der Hochschule für Technik und Wirtschaft Berlin durchgeführt. Der Workshop richtete sich an Programmierer und Entwickler in kleinen und mittelständischen Unternehmen, an Institute, Freiberufliche und Selbständige sowie Studenten. Thematisiert wurde das Spannungsfeld der mobilen Geräte und der Apps. Es gab Vorträge zu den Themen
+Der Workshop *Programmierung mobiler Anwendungen* wurde am 30. Januar 2012 und am 12. Dezember 2011 an der Hochschule für Technik und Wirtschaft Berlin durchgeführt. Ein weiterer Workshop fand am 8. Mai 2012 im Oberstufenzentrum Informationstechnik und Medizintechnik statt. Der Workshop richtete sich an Programmierer und Entwickler in kleinen und mittelständischen Unternehmen, an Institute, Freiberufliche und Selbständige sowie Studenten. Thematisiert wurde das Spannungsfeld der mobilen Geräte und der Apps. Es gab Vorträge zu den Themen
 
 Im Dezember gab Vorträge zu den Themen
 
@@ -14,7 +14,9 @@ sowie Workshops zum Thema
 
 Der Termin im Januar 2012 konzentrierte sich auf die Workshopinhalte bzgl. der Android- sowie iOS-Programmierung.
 
-Die im Rahmen des iOS-Workshops entwickelte App kann aus [diesem Repository](https://github.com/bewitec/Programmierung-mobiler-Anwendung---Android-Workshop) heruntergeladen werden.  
+Im Oberstufenzentrum Informationstechnik und Medizintechnik wurde der Workshop zum Thema Einführung in die Programmierung für Android durchgeführt.
+
+Die im Rahmen des Android-Workshops entwickelte App kann aus [diesem Repository](https://github.com/bewitec/Programmierung-mobiler-Anwendung---Android-Workshop) heruntergeladen werden.  
 
 ## Neu in Version 1.1 ##
 
@@ -34,6 +36,7 @@ Der Quellcode unterliegt der [Apache 2.0 Lizenz](http://www.apache.org/licenses/
 
 **Workshop mit Folien & Vorträgen**:
 
+- Mai 2012: [http://bewitec.htw-berlin.de/workshops/introprogrammingmobile3/](http://bewitec.htw-berlin.de/workshops/introprogrammingmobile3/)
 - Januar 2012: [http://bewitec.htw-berlin.de/workshops/introprogrammingmobile2/index.html](http://bewitec.htw-berlin.de/workshops/introprogrammingmobile2/)
 - Dezember 2011: [http://bewitec.htw-berlin.de/workshops/introprogrammingmobile/index.html](http://bewitec.htw-berlin.de/workshops/introprogrammingmobile/index.html)
 
